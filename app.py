@@ -4,7 +4,7 @@ from pyrogram.types import InlineKeyboardMarkup, InlineKeyboardButton
 # আপনার ডিটেইলস এখানে বসান
 API_ID = "আপনার_API_ID"
 API_HASH = "আপনার_API_HASH"
-BOT_TOKEN = "আপনার_BOT_TOKEN"
+BOT_TOKEN = "8759130990:AAH3YoOL1eGt5NXN9xh5klJKhRCSKwaSd4g"
 OWNER_USERNAME = "@pr78rohitbug" # আপনার ইউজারনেম দিন
 
 app = Client("bug_bot", api_id=API_ID, api_hash=API_HASH, bot_token=BOT_TOKEN)
