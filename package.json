@@ -1,0 +1,10 @@
+{
+  "name": "tom-x-bug",
+  "version": "1.0.0",
+  "main": "app.py",
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.6.0",
+    "pino": "^8.19.0",
+    "axios": "^1.6.0"
+  }
+}
