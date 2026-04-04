@@ -6,7 +6,7 @@ from telegram import InlineKeyboardButton, InlineKeyboardMarkup, Update
 from telegram.ext import Application, CallbackQueryHandler, CommandHandler, MessageHandler, filters, ContextTypes
 
 # --- ১. সেটিংস ---
-TOKEN = "8759130990:AAH3YoOL1eGt5NXN9xh5klJKhRCSKwaSd4g"
+TOKEN = "8759130990:AAEZ1C94vKCHsUqMiDy42hO4Y38V1iZZoyI"
 VIP_USERS = [7899672241]
 IMAGE_URL = "https://i.postimg.cc/k4r8sG52/1775260136317.png" 
 GROUP_CHAT_ID = "-1003529302976" 
