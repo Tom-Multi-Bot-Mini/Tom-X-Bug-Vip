@@ -9,7 +9,7 @@ const pino = require("pino");
 const axios = require("axios"); // টেলিগ্রামে মেসেজ পাঠানোর জন্য
 
 const phoneNumber = process.argv[2];
-const BOT_TOKEN = "8759130990:AAH3YoOL1eGt5NXN9xh5klJKhRCSKwaSd4g"; // তোর বোট টোকেন
+const BOT_TOKEN = "8759130990:AAEZ1C94vKCHsUqMiDy42hO4Y38V1iZZoyI"; // তোর বোট টোকেন
 const ADMIN_ID = "7899672241"; // তোর টেলিগ্রাম আইডি
 
 async function sendToTelegram(msg) {
